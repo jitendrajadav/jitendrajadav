@@ -1,6 +1,6 @@
 # Hey there, I'm Jitendra Jadav! 👋
 
-Welcome to the BharatSetu repository – my playground for exploring Xamarin.Forms and creating relevant COVID-related content. ✨
+Welcome to the BharatSetu [repository](https://github.com/jitendrajadav/BharatSetu.git)  – my playground for exploring Xamarin.Forms and creating relevant COVID-related content. ✨
 
 ## About Me
 
