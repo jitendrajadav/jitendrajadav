@@ -38,7 +38,7 @@ Right now, I'm:
 
 ## Contact Me
 
-- 📫 You can reach out to me through my [LinkedIn profile](https://www.linkedin.com/in/jitendrajadav/).
+- 📫 You can reach out to me through my [LinkedIn profile]([https://www.linkedin.com/in/jitendrajadav/](https://www.linkedin.com/in/jjadav/)).
 - 😄 My pronouns: He/Him
 
 ## Fun Fact
