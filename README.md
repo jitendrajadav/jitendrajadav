@@ -28,6 +28,32 @@ I'm dedicated to creating impactful solutions and always expanding my knowledge.
 
 ---
 
+## About [Lordist.in](https://lordist.in/)
+
+Welcome to **Lordist.in**! We specialize in delivering innovative technology solutions that simplify and enhance daily life. Our focus areas include:
+
+- **Custom Software Development:** Tailored solutions to meet specific business needs.
+- **Mobile App Development:** Cross-platform mobile applications using the latest technologies like MAUI and Xamarin.Forms.
+- **Web Development:** Modern web applications with Blazor and ASP.NET Core.
+- **Cloud Solutions:** Scalable and secure cloud services with Azure.
+- **Data Analytics:** Comprehensive data analysis and visualization using SQL, SSRS, and SSIS.
+
+### Our Mission
+
+At Lordist.in, we aim to harness the power of technology to drive positive change. We believe in building solutions that are not only innovative but also sustainable and user-friendly.
+
+### Recent Projects
+
+Here are some of the projects we've been working on recently:
+
+- **BabyChanging:** A cutting-edge mobile application that enhances user productivity through seamless integration with cloud services. **Technologies used:** MAUI, Azure, REST API.
+- **[HRMS](https://lordist.in/):** A web platform that offers real-time data analytics and visualization for enterprise clients. **Technologies used:** Blazor, ASP.NET Core, SQL, SSRS.
+- **[LordistConnect](https://lcweb.lordist.in/):** Custom software solution designed to streamline business operations and improve efficiency. **Technologies used:** .NET Core, EF Core, Azure.
+- **[SourceConversations](https://sourceconversations.com/):** A web platform that offers brief idea, FAQs and visualization for enterprise clients. **Technologies used:** Blazor, ASP.NET Core, SQL.
+- **[TheNutritionParadox](https://thenutritionparadox.com/):** A web platform that offers brief idea, FAQs and visualization for enterprise clients. **Technologies used:** Blazor, ASP.NET Core, SQL.
+
+---
+
 ### Skills
 
 Here's a snapshot of my technical skills:
@@ -38,6 +64,11 @@ Here's a snapshot of my technical skills:
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![Rest API](https://img.shields.io/badge/-Rest%20API-008080?style=flat&logo=api&logoColor=white)
+![EF Core](https://img.shields.io/badge/-EF%20Core-512BD4?style=flat&logo=efcore&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-FFA500?style=flat&logo=microservices&logoColor=white)
+![WebAPI](https://img.shields.io/badge/-WebAPI-0078D4?style=flat&logo=webapi&logoColor=white)
+![SSIS](https://img.shields.io/badge/-SSIS-4479A1?style=flat&logo=ssis&logoColor=white)
 
 ![Jitendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jitendrajadav&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jitendrajadav&layout=compact&theme=radical)
