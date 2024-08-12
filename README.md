@@ -28,9 +28,9 @@ I'm dedicated to creating impactful solutions and always expanding my knowledge.
 
 ---
 
-## About [Lordist.in](https://lordist.in/)
+## About [Lordist.in](https://lordist.com/)
 
-Welcome to **Lordist.in**! We specialize in delivering innovative technology solutions that simplify and enhance daily life. Our focus areas include:
+Welcome to **Lordist.com**! We specialize in delivering innovative technology solutions that simplify and enhance daily life. Our focus areas include:
 
 - **Custom Software Development:** Tailored solutions to meet specific business needs.
 - **Mobile App Development:** Cross-platform mobile applications using the latest technologies like MAUI and Xamarin.Forms.
@@ -47,7 +47,7 @@ At Lordist.in, we aim to harness the power of technology to drive positive chang
 Here are some of the projects we've been working on recently:
 
 - **BabyChanging:** A cutting-edge mobile application that enhances user productivity through seamless integration with cloud services. **Technologies used:** MAUI, Azure, REST API.
-- **[HRMS](https://lordist.in/):** A web platform that offers real-time data analytics and visualization for enterprise clients. **Technologies used:** Blazor, ASP.NET Core, SQL, SSRS.
+- **[HRMS](https://lordist.com/):** A web platform that offers real-time data analytics and visualization for enterprise clients. **Technologies used:** Blazor, ASP.NET Core, SQL, SSRS.
 - **[LordistConnect](https://lcweb.lordist.in/):** Custom software solution designed to streamline business operations and improve efficiency. **Technologies used:** .NET Core, EF Core, Azure.
 - **[SourceConversations](https://sourceconversations.com/):** A web platform that offers brief idea, FAQs and visualization for enterprise clients. **Technologies used:** Blazor, ASP.NET Core, SQL.
 - **[TheNutritionParadox](https://thenutritionparadox.com/):** A web platform that offers brief idea, FAQs and visualization for enterprise clients. **Technologies used:** Blazor, ASP.NET Core, SQL.
