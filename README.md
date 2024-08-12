@@ -28,7 +28,7 @@ I'm dedicated to creating impactful solutions and always expanding my knowledge.
 
 ---
 
-## About [Lordist.in](https://lordist.com/)
+## About [Lordist.com](https://lordist.com/)
 
 Welcome to **Lordist.com**! We specialize in delivering innovative technology solutions that simplify and enhance daily life. Our focus areas include:
 
